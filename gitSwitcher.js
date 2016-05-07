@@ -12,20 +12,19 @@ switch(daysOfTheWeek) {
 break;
 case 'Tuesday':
     console.log("taco tuesday");
-    break;
-    case 'Wednesday':
-    console.log ("Ugh....fuck");
-	break;
-	case 'Thursday':
+break;
+case 'Wednesday':
+	console.log ("Ugh....fuck");
+break;
+case 'Thursday':
 	console.log ('yay! general assembly day!');
-	break;
-	case 'Friday':
+break;
+case 'Friday':
 	console.log ('Im gonna eat dinner and sleep so hard tonight!');
-	break;
-	case 'Saturday':
+break;
+case 'Saturday':
 	console.log ('YYYEEEZZZZ!!!!1 ITS SATURDAY');
-	break;
-	case 'Sunday':
+break;
+case 'Sunday':
 	console.log ('bed bath and beyond and a glass of orange juice');
-
 }
